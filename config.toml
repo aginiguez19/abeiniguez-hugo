@@ -1,4 +1,4 @@
-baseURL = "abiniguez.netlify.app"
+baseURL = "https://abiniguez.netlify.app"
 theme = "hugo-apero"
 locale = "en"
 title = "Abraham Iñiguez"
