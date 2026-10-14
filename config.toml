@@ -1,4 +1,4 @@
-baseURL = "https://www.example.org/"
+baseURL = "abiniguez.netlify.app"
 theme = "hugo-apero"
 locale = "en"
 title = "Abraham Iñiguez"
@@ -144,11 +144,11 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+  #[[menu.header]]
+    #name = "Blog"
+    #title = "Blog"
+    #url = "/blog/"
+    #weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
@@ -164,11 +164,11 @@ enableEmoji = true
     title = "A collection"
     url = "/collection/"
     weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+  #[[menu.header]]
+    #name = "Elements"
+    #title = "Element Page"
+    #url = "/elements/"
+    #weight = 6
     
   # Configure footer  
   [[menu.footer]]
